@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productName": "Potatoes",
+      "comment": "asd",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 123,
+      "date": "2022-07-16T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apples",
+      "comment": "asd",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "date": "2022-07-18T19:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
